@@ -5,3 +5,4 @@ Day 3 — minor note about setup.
 Day 4 — fixed a small typo.
 Day 5 — improved command example.
 Day 6 — added one-line usage hint.
+Day 7 — adjusted README formatting.
